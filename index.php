@@ -9,5 +9,9 @@
 <body>
 <h1>Hello World!</h1>
 <p>Ini contoh paragraf lumayan banyak</p>
+<ul>
+    <li>satu</li>
+    <li>dua</li>
+</ul>
 </body>
 </html>
